@@ -26,8 +26,9 @@ public class App {
 
 int number3 = 68;
 int number4 = 10;
-int number5 = 40;
+int number5 = 20;
 if (number1 == number2 && number2 == number3)
+
  {
 System.out.println("All numbers are equal");
 }
@@ -57,7 +58,7 @@ else if (number3==number5){
 
 
 
- String name1 = "batista";
+ String name1 = "rtruth";
  String name2 = "undertaker";
  String name3 = "bigshow";
  if(name1.equals(name2)){
