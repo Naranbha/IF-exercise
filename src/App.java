@@ -2,8 +2,8 @@ public class App {
 
     
     public static void main(String[] args) throws Exception {
-      int number1 = 2;
-      int number2 = 4;
+      int number1 = 5;
+      int number2 = 5;
 
       if (number1==number2)
       {
@@ -24,9 +24,9 @@ public class App {
     }
 
 
-int number3 = 10;
+int number3 = 68;
 int number4 = 10;
-int number5 = 12;
+int number5 = 40;
 if (number1 == number2 && number2 == number3)
  {
 System.out.println("All numbers are equal");
